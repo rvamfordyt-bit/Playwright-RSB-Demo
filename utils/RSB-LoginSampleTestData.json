@@ -1,0 +1,7 @@
+{
+    "validUsername": "EnterValidUsernameHere",
+    "validPassword": "EnterValidPasswordHere",
+    "invalidUsername": "EnterInvalidUsernameHere",
+    "invalidPassword": "EnterInvalidPasswordHere",
+    "LoginPageErrorText": "InsertExpectedErrorMessageTextHere"
+}
